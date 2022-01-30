@@ -1,7 +1,7 @@
 id,City,Country,CountryCode
-100,The Valley,Lebanon,AG
-101,Riverside,"Tanzania, United Republic of",GW
-102,Tiraspol,"Korea, Republic of",TT
+100,The Valley1,Lebanon,AG
+"101,Riverside,""Tanzania, United Republic of"",GW"
+"102,Tiraspol,""Korea, Republic of"",TT"
 103,Belgrade,Finland,ML
 104,Glasgow,Armenia,VN
 105,Port Blair,Colombia,NF
@@ -15,13 +15,13 @@ id,City,Country,CountryCode
 113,Gaborone,Syrian Arab Republic,GY
 114,Maracaibo,Marshall Islands,GI
 115,Mersin,Suriname,BE
-116,Melekeok,"Korea, Republic of",FM
+"116,Melekeok,""Korea, Republic of"",FM"
 117,Chittagong,Madagascar,IO
 118,Melekeok,Marshall Islands,GS
 119,Novosibirsk,Martinique,NO
 120,Taichung,AndorrA,LC
 121,Damascus,Samoa,VE
-122,Malé,"Palestinian Territory, Occupied",MK
+"122,Malé,""Palestinian Territory, Occupied"",MK"
 123,Porto,Norway,OM
 124,Bursa,China,TN
 125,Nakhon Ratchasima,Turkmenistan,CX
@@ -41,7 +41,7 @@ id,City,Country,CountryCode
 139,Multan,Norway,BH
 140,Kandy,Norway,LA
 141,Xi'an,Cameroon,ZW
-142,Geneva,"Virgin Islands, U.S.",RU
+"142,Geneva,""Virgin Islands, U.S."",RU"
 143,Rockhampton,Bahamas,UY
 144,Ouagadougou,Qatar,SN
 145,Dunedin,Tunisia,HM
@@ -56,7 +56,7 @@ id,City,Country,CountryCode
 154,Algiers,Paraguay,LA
 155,Koror,Switzerland,AW
 156,Adelaide,Burkina Faso,AT
-157,Surabaya,"Virgin Islands, British",BE
+"157,Surabaya,""Virgin Islands, British"",BE"
 158,Nanning,Ethiopia,GD
 159,Marseille,Turkey,DO
 160,Dammam,Liechtenstein,AS
@@ -67,7 +67,7 @@ id,City,Country,CountryCode
 165,Yakutsk,Cambodia,SG
 166,Da Nang,Lebanon,FR
 167,Omdurman,Yemen,WF
-168,Minsk,"Cote D""Ivoire",LU
+"168,Minsk,""Cote D""""Ivoire"",LU"
 169,New Delhi,Faroe Islands,WS
 170,Birkirkara,Turks and Caicos Islands,AT
 171,Dededo,Vanuatu,CM
@@ -76,7 +76,7 @@ id,City,Country,CountryCode
 174,Baghdad,Lebanon,JE
 175,Chengdu,Guyana,BB
 176,Lagos,Colombia,MX
-177,San Francisco,"Cote D""Ivoire",GG
+"177,San Francisco,""Cote D""""Ivoire"",GG"
 178,Phuket (city),Solomon Islands,AL
 179,Surabaya,British Indian Ocean Territory,SY
 180,Boston,Reunion,PH
@@ -85,9 +85,9 @@ id,City,Country,CountryCode
 183,Albuquerque,Malaysia,FI
 184,Quetzaltenango,Gambia,CK
 185,Warsaw,Belarus,PH
-186,Vientiane,"Virgin Islands, U.S.",BI
+"186,Vientiane,""Virgin Islands, U.S."",BI"
 187,Fort-de-France,Åland Islands,DE
-188,Christchurch,"Moldova, Republic of",ZW
+"188,Christchurch,""Moldova, Republic of"",ZW"
 189,San José,Guinea,CN
 190,Toronto,Libyan Arab Jamahiriya,HK
 191,Dhaka,Iceland,KP
@@ -113,7 +113,7 @@ id,City,Country,CountryCode
 211,Porto Velho,Myanmar,YE
 212,Avarua,Israel,DO
 213,Atlanta,Germany,FJ
-214,Berlin,"Iran, Islamic Republic Of",CM
+"214,Berlin,""Iran, Islamic Republic Of"",CM"
 215,Hat Yai,Aruba,PE
 216,Cincinnati,Albania,MS
 217,Rio Branco,Romania,IR
@@ -139,12 +139,12 @@ id,City,Country,CountryCode
 237,Tbilisi,Guyana,MS
 238,Dili,Zambia,JP
 239,Ljubljana,Tokelau,IR
-240,Rio Branco,"Congo, The Democratic Republic of the",KM
+"240,Rio Branco,""Congo, The Democratic Republic of the"",KM"
 241,Tiraspol,Spain,ST
 242,Jamestown,Colombia,HU
 243,Pattaya,Samoa,CR
 244,Majuro,Uzbekistan,KZ
-245,Nouméa,"Palestinian Territory, Occupied",JE
+"245,Nouméa,""Palestinian Territory, Occupied"",JE"
 246,Ilhéus,Cambodia,TV
 247,Boston,Sierra Leone,GL
 248,Sapporo,Latvia,AM
@@ -152,7 +152,7 @@ id,City,Country,CountryCode
 250,Bishkek,Iraq,EH
 251,Toulouse,Bermuda,PM
 252,Helsinki,Brunei Darussalam,KW
-253,Funafuti,"Lao People""S Democratic Republic",IN
+"253,Funafuti,""Lao People""""S Democratic Republic"",IN"
 254,Luxembourg (city),South Africa,DO
 255,Portland,Benin,VI
 256,Vientiane,Nauru,GB
@@ -175,7 +175,7 @@ id,City,Country,CountryCode
 273,The Hague,Mali,AE
 274,Dalian,Romania,LC
 275,Medellín,AndorrA,BO
-276,Milwaukee,"Cote D""Ivoire",BJ
+"276,Milwaukee,""Cote D""""Ivoire"",BJ"
 277,Adelaide,Brazil,TO
 278,Mumbai,Vanuatu,TV
 279,Douala,Honduras,MK
@@ -201,7 +201,7 @@ id,City,Country,CountryCode
 299,Edmonton,Nepal,GH
 300,Bridgetown,Cocos (Keeling) Islands,HU
 301,Barranquilla,Malawi,MP
-302,Yakutsk,"Iran, Islamic Republic Of",NP
+"302,Yakutsk,""Iran, Islamic Republic Of"",NP"
 303,Adak,Finland,MG
 304,Jakarta,Namibia,BW
 305,Zagreb,Angola,CZ
@@ -252,28 +252,28 @@ id,City,Country,CountryCode
 350,Indianapolis,Kyrgyzstan,IS
 351,Porto Velho,Equatorial Guinea,SI
 352,Nukus,Malaysia,DK
-353,Tegucigalpa,"Iran, Islamic Republic Of",GG
+"353,Tegucigalpa,""Iran, Islamic Republic Of"",GG"
 354,Calama,Afghanistan,PW
 355,Leeds,Ethiopia,AN
 356,Hat Yai,Botswana,RW
 357,Freetown,Luxembourg,HU
 358,Bissau,Tajikistan,PL
-359,Monrovia,"Moldova, Republic of",WS
+"359,Monrovia,""Moldova, Republic of"",WS"
 360,Almaty,El Salvador,NC
-361,Yaoundé,"Virgin Islands, British",NI
+"361,Yaoundé,""Virgin Islands, British"",NI"
 362,Cockburn Town,Peru,NC
 363,Iquitos,Equatorial Guinea,IM
 364,São José dos Campos,Åland Islands,LY
 365,Brussels,Seychelles,FR
 366,Paris,Botswana,VE
 367,Jamestown,Afghanistan,GH
-368,Quebec City,"Korea, Republic of",SY
+"368,Quebec City,""Korea, Republic of"",SY"
 369,Milan,Tunisia,MH
 370,San Juan,Denmark,LS
 371,Warsaw,United States Minor Outlying Islands,AN
 372,Denpasar,Singapore,GB
 373,Manchester,Turkey,CO
-374,Port Blair,"Cote D""Ivoire",VI
+"374,Port Blair,""Cote D""""Ivoire"",VI"
 375,Rawalpindi,Montserrat,NI
 376,Doha,Armenia,GN
 377,Tripoli,Cameroon,AE
@@ -289,9 +289,9 @@ id,City,Country,CountryCode
 387,Lhasa,French Polynesia,VA
 388,Tashkent,Grenada,ET
 389,Valdivia,China,SC
-390,Bissau,"Cote D""Ivoire",BD
+"390,Bissau,""Cote D""""Ivoire"",BD"
 391,Omsk,Singapore,CS
-392,Melekeok,"Korea, Democratic People""S Republic of",HM
+"392,Melekeok,""Korea, Democratic People""""S Republic of"",HM"
 393,Yaren District,Armenia,SH
 394,Tamale,Tuvalu,CZ
 395,Chittagong,Lebanon,MD
@@ -328,12 +328,12 @@ id,City,Country,CountryCode
 426,Bujumbura,Mauritania,TF
 427,Bratislava,Tuvalu,MU
 428,Campinas,Bouvet Island,SB
-429,Virginia Beach,"Iran, Islamic Republic Of",NO
+"429,Virginia Beach,""Iran, Islamic Republic Of"",NO"
 430,Hargeisa,Portugal,ZW
 431,Weno,Sweden,FK
 432,Santiago de Cuba,Kyrgyzstan,TZ
 433,Tokyo,Cocos (Keeling) Islands,KM
-434,Nanning,"Moldova, Republic of",GL
+"434,Nanning,""Moldova, Republic of"",GL"
 435,Murmansk,Iceland,SR
 436,Santa Cruz de Tenerife,Viet Nam,SR
 437,Lima,Croatia,IM
@@ -342,7 +342,7 @@ id,City,Country,CountryCode
 440,Avarua,Equatorial Guinea,KP
 441,São Tomé,Ethiopia,YT
 442,Puebla,Mali,ES
-443,Belize City,"Lao People""S Democratic Republic",MD
+"443,Belize City,""Lao People""""S Democratic Republic"",MD"
 444,Santo Domingo,Turkey,TZ
 445,Cairo,Mongolia,AU
 446,Port Said,Bhutan,GB
@@ -360,14 +360,14 @@ id,City,Country,CountryCode
 458,Calgary,Hong Kong,ID
 459,Taichung,Saint Pierre and Miquelon,BW
 460,Hagåtña,Tuvalu,SC
-461,Handan,"Taiwan, Province of China",NC
+"461,Handan,""Taiwan, Province of China"",NC"
 462,Tucson,Hong Kong,JP
 463,Dakar,United States Minor Outlying Islands,UY
 464,Daegu,Guernsey,BV
 465,Antofagasta,New Zealand,GP
 466,Oranjestad,Cuba,SC
 467,Multan,Vanuatu,JP
-468,Bangalore,"Lao People""S Democratic Republic",IE
+"468,Bangalore,""Lao People""""S Democratic Republic"",IE"
 469,Washington,Liechtenstein,WF
 470,Alexandria,Wallis and Futuna,LU
 471,Invercargill,Guam,VN
@@ -402,7 +402,7 @@ id,City,Country,CountryCode
 500,Praia,Mozambique,DK
 501,San Salvador,Holy See (Vatican City State),MS
 502,Guayaquil,French Polynesia,BO
-503,Mumbai,"Virgin Islands, British",UG
+"503,Mumbai,""Virgin Islands, British"",UG"
 504,Accra,Georgia,NE
 505,Madrid,Macao,MC
 506,Zürich,Pakistan,LS
@@ -450,13 +450,13 @@ id,City,Country,CountryCode
 548,La Paz,United States Minor Outlying Islands,AF
 549,Doha,Puerto Rico,TD
 550,Chongqing,Croatia,BR
-551,Tampa,"Korea, Democratic People""S Republic of",TJ
+"551,Tampa,""Korea, Democratic People""""S Republic of"",TJ"
 552,Kabul,Djibouti,NU
 553,Surat,Yemen,GG
 554,Hanga Roa,Belize,FJ
 555,Las Palmas de Gran Canaria,Greenland,NE
 556,Sofia,Zambia,SY
-557,Port Said,"Lao People""S Democratic Republic",MD
+"557,Port Said,""Lao People""""S Democratic Republic"",MD"
 558,Lhasa,Turks and Caicos Islands,KE
 559,Sofia,Turks and Caicos Islands,IL
 560,Lanzhou,Tuvalu,KM
@@ -478,14 +478,14 @@ id,City,Country,CountryCode
 576,Oslo,Guatemala,LU
 577,Vancouver,Zambia,NZ
 578,N'Djamena,Djibouti,TT
-579,Patna,"Micronesia, Federated States of",KG
+"579,Patna,""Micronesia, Federated States of"",KG"
 580,Cali,Sri Lanka,LI
 581,Fort-de-France,Luxembourg,PT
 582,Douala,Panama,TC
 583,Dunedin,Vanuatu,TD
-584,Calgary,"Korea, Democratic People""S Republic of",IS
+"584,Calgary,""Korea, Democratic People""""S Republic of"",IS"
 585,Punta Arenas,Hungary,QA
-586,Xining,"Taiwan, Province of China",JE
+"586,Xining,""Taiwan, Province of China"",JE"
 587,Fukuoka,Vanuatu,PH
 588,Hobart,Albania,MN
 589,Mashhad,Morocco,CG
@@ -494,7 +494,7 @@ id,City,Country,CountryCode
 592,Anchorage,Netherlands,RE
 593,Surabaya,Sudan,ZM
 594,Porto-Novo,Swaziland,GH
-595,Sofia,"Virgin Islands, U.S.",NC
+"595,Sofia,""Virgin Islands, U.S."",NC"
 596,Zapopan,Cayman Islands,QA
 597,Quezon City,South Africa,KG
 598,Madrid,Switzerland,BN
@@ -509,7 +509,7 @@ id,City,Country,CountryCode
 607,Sydney,Bangladesh,FI
 608,Chişinău,Portugal,NP
 609,Yogyakarta (city),Saint Helena,CC
-610,Puerto Williams,"Virgin Islands, British",CV
+"610,Puerto Williams,""Virgin Islands, British"",CV"
 611,Amman,Guernsey,AG
 612,Lobamba,Namibia,MW
 613,Norilsk,San Marino,ER
@@ -532,7 +532,7 @@ id,City,Country,CountryCode
 630,Apia,Cameroon,PM
 631,Makati City,Saint Lucia,LB
 632,Yogyakarta (city),Macao,KM
-633,Stockholm,"Tanzania, United Republic of",TK
+"633,Stockholm,""Tanzania, United Republic of"",TK"
 634,Dammam,Burundi,SJ
 635,Port Elizabeth,Macao,IQ
 636,Nicosia,Niue,WS
@@ -547,12 +547,12 @@ id,City,Country,CountryCode
 645,Changchun,Sao Tome and Principe,UM
 646,Cardiff,Papua New Guinea,GI
 647,Milan,Netherlands Antilles,TW
-648,Port Vila,"Cote D""Ivoire",NZ
+"648,Port Vila,""Cote D""""Ivoire"",NZ"
 649,Mamoudzou,Guyana,GF
 650,Nagpur,Eritrea,JE
 651,Simferopol,Mauritius,BZ
-652,Hargeisa,"Palestinian Territory, Occupied",NA
-653,Majuro,"Iran, Islamic Republic Of",ES
+"652,Hargeisa,""Palestinian Territory, Occupied"",NA"
+"653,Majuro,""Iran, Islamic Republic Of"",ES"
 654,Medellín,Peru,AT
 655,Kiev,Hungary,PS
 656,Istanbul,Christmas Island,IQ
@@ -588,13 +588,13 @@ id,City,Country,CountryCode
 686,Kota Kinabalu,Jordan,PK
 687,Bandung,Mexico,JP
 688,São Paulo,Aruba,JE
-689,Saskatoon,"Taiwan, Province of China",SM
+"689,Saskatoon,""Taiwan, Province of China"",SM"
 690,Tampa,Suriname,NP
 691,San Salvador,United Kingdom,MT
 692,Puerto Williams,Sweden,CA
 693,Stanley,Puerto Rico,BH
 694,Pyongyang,Niger,ST
-695,Split (city),"Korea, Republic of",TC
+"695,Split (city),""Korea, Republic of"",TC"
 696,Vienna,Bouvet Island,AT
 697,Lubumbashi,Iraq,GE
 698,Horta (Azores),Barbados,KZ
@@ -602,7 +602,7 @@ id,City,Country,CountryCode
 700,Christchurch,RWANDA,ST
 701,Amritsar,Saint Kitts and Nevis,PG
 702,Chengdu,Djibouti,GB
-703,Siem Reap,"Tanzania, United Republic of",LI
+"703,Siem Reap,""Tanzania, United Republic of"",LI"
 704,Porto Alegre,Singapore,MA
 705,Banda Aceh,Guam,MA
 706,Rotterdam,Gibraltar,GT
@@ -657,12 +657,12 @@ id,City,Country,CountryCode
 755,Antofagasta,Albania,RE
 756,Córdoba,Mauritania,BF
 757,Douglas,Denmark,KI
-758,Ulan Bator,"Lao People""S Democratic Republic",SR
+"758,Ulan Bator,""Lao People""""S Democratic Republic"",SR"
 759,Johor Bahru,Guadeloupe,PR
 760,Sabha,Libyan Arab Jamahiriya,PR
 761,Chihuahua,American Samoa,BI
 762,Saint-Denis,Vanuatu,MZ
-763,Surat,"Taiwan, Province of China",IN
+"763,Surat,""Taiwan, Province of China"",IN"
 764,Colombo,Bosnia and Herzegovina,EH
 765,Timbuktu,Peru,LA
 766,Almaty,Puerto Rico,JP
@@ -680,7 +680,7 @@ id,City,Country,CountryCode
 778,Palma,Kazakhstan,AS
 779,Bahía Blanca,Somalia,AM
 780,Yaren District,Guatemala,JP
-781,Dublin,"Virgin Islands, U.S.",LT
+"781,Dublin,""Virgin Islands, U.S."",LT"
 782,Antwerp,Dominican Republic,SL
 783,Zamboanga City,Suriname,NL
 784,Baltimore,Niue,AT
@@ -690,7 +690,7 @@ id,City,Country,CountryCode
 788,Pattaya,Norway,LU
 789,Manaus,Armenia,EE
 790,Yokohama,Iraq,MQ
-791,Saint John,"Congo, The Democratic Republic of the",GI
+"791,Saint John,""Congo, The Democratic Republic of the"",GI"
 792,Conakry,Gambia,UY
 793,Xining,Swaziland,GN
 794,Faisalabad,Hungary,AU
@@ -722,13 +722,13 @@ id,City,Country,CountryCode
 820,Adana,Kiribati,KI
 821,Muscat,El Salvador,AR
 822,Canberra,Uruguay,NA
-823,San Salvador,"Tanzania, United Republic of",KE
+"823,San Salvador,""Tanzania, United Republic of"",KE"
 824,St. John's,Cook Islands,BW
 825,Bloemfontein,Namibia,ZW
 826,Tabriz,Liechtenstein,SE
 827,Moroni,Latvia,CI
 828,Libreville,Togo,SR
-829,Tucson,"Tanzania, United Republic of",NU
+"829,Tucson,""Tanzania, United Republic of"",NU"
 830,Wonsan,Argentina,CA
 831,Darwin,Turks and Caicos Islands,UZ
 832,Kunming,Martinique,TC
@@ -744,7 +744,7 @@ id,City,Country,CountryCode
 842,Prague,Estonia,ER
 843,Málaga,Cayman Islands,SV
 844,Johor Bahru,Australia,CA
-845,Cali,"Korea, Republic of",BV
+"845,Cali,""Korea, Republic of"",BV"
 846,Denpasar,Portugal,MK
 847,Johannesburg,Bouvet Island,BE
 848,Milwaukee,Haiti,AU
@@ -756,7 +756,7 @@ id,City,Country,CountryCode
 854,Yekaterinburg,Zimbabwe,PS
 855,Muscat,Seychelles,AG
 856,Port of Spain,Guinea-Bissau,PN
-857,Adana,"Korea, Republic of",TK
+"857,Adana,""Korea, Republic of"",TK"
 858,Guangzhou,Western Sahara,AE
 859,Kano,South Georgia and the South Sandwich Islands,UA
 860,Rawalpindi,Nepal,LU
@@ -766,7 +766,7 @@ id,City,Country,CountryCode
 864,Malmö,Mozambique,CZ
 865,Los Angeles,Northern Mariana Islands,CF
 866,Suva,French Southern Territories,IM
-867,Port of Spain,"Korea, Republic of",VN
+"867,Port of Spain,""Korea, Republic of"",VN"
 868,Charlotte,Somalia,RW
 869,Manzini,Pitcairn,CH
 870,Fortaleza,Armenia,KN
@@ -871,7 +871,7 @@ id,City,Country,CountryCode
 969,Edmonton,Russian Federation,CF
 970,Saipan,Guernsey,CA
 971,Porto,Finland,AR
-972,Chongqing,"Korea, Democratic People""S Republic of",BD
+"972,Chongqing,""Korea, Democratic People""""S Republic of"",BD"
 973,Zagreb,Jamaica,BI
 974,Denver,Germany,GP
 975,Surat,Malaysia,ID
@@ -909,7 +909,7 @@ id,City,Country,CountryCode
 1007,Manzini,Denmark,SV
 1008,Dunedin,Cape Verde,CC
 1009,Alor Star,Kiribati,PG
-1010,The Hague,"Korea, Republic of",BE
+"1010,The Hague,""Korea, Republic of"",BE"
 1011,Fredericton,Tajikistan,IT
 1012,Assis,Uganda,TK
 1013,Miami,Sudan,KH
@@ -935,14 +935,14 @@ id,City,Country,CountryCode
 1033,Indianapolis,Mali,UZ
 1034,Anchorage,Switzerland,KE
 1035,Peshawar,Dominican Republic,LU
-1036,Karachi,"Lao People""S Democratic Republic",TO
+"1036,Karachi,""Lao People""""S Democratic Republic"",TO"
 1037,Tashkent,Australia,KP
 1038,Geneva,Kiribati,CY
 1039,Kunming,Bangladesh,UM
 1040,Faisalabad,Ireland,EC
 1041,Lucknow,Colombia,CR
 1042,Jerusalem,American Samoa,PK
-1043,San Francisco,"Virgin Islands, British",BV
+"1043,San Francisco,""Virgin Islands, British"",BV"
 1044,Antofagasta,United States,NA
 1045,Adamstown,Mauritius,DJ
 1046,Port Moresby,Argentina,BI
@@ -962,20 +962,20 @@ id,City,Country,CountryCode
 1060,Niamey,Colombia,PS
 1061,Yaoundé,Mayotte,CO
 1062,Bogotá,Niue,NF
-1063,Bursa,"Cote D""Ivoire",FM
+"1063,Bursa,""Cote D""""Ivoire"",FM"
 1064,Düsseldorf,Afghanistan,FI
 1065,Karachi,Madagascar,GG
 1066,Iloilo City,Indonesia,GN
 1067,Tokyo,Cyprus,UM
 1068,Changchun,Georgia,SV
-1069,Bogotá,"Korea, Democratic People""S Republic of",NE
+"1069,Bogotá,""Korea, Democratic People""""S Republic of"",NE"
 1070,Dededo,French Polynesia,BZ
 1071,Lagos,Sao Tome and Principe,TM
 1072,Palma,French Polynesia,AL
 1073,Dresden,Uzbekistan,EH
 1074,Hamburg,Poland,MY
 1075,Quito,Niue,CD
-1076,Shenyang,"Palestinian Territory, Occupied",DK
+"1076,Shenyang,""Palestinian Territory, Occupied"",DK"
 1077,Rio Branco,San Marino,SG
 1078,Sarajevo,Cayman Islands,AW
 1079,Pittsburgh,Samoa,AM
@@ -995,7 +995,7 @@ id,City,Country,CountryCode
 1093,Siem Reap,Malta,CH
 1094,Mexicali,Sri Lanka,UM
 1095,Incheon,Puerto Rico,IQ
-1096,Ahmedabad,"Micronesia, Federated States of",GG
+"1096,Ahmedabad,""Micronesia, Federated States of"",GG"
 1097,Kuala Lumpur,South Africa,NF
 1098,Bishkek,Belarus,ER
 1099,Batticaloa,Slovakia,LU
